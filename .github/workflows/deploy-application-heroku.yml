@@ -1,0 +1,21 @@
+name: Deploy Application Heroku
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: MyMusic Application
+      url: https://mymusic-application.herokuapp.com/swagger-ui/index.html
+    steps:
+    - uses: actions/checkout@v2
+    - name: Release MyMusic API
+      uses: akhileshns/heroku-deploy@v3.12.12
+      with:
+        heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+        heroku_app_name: "mymusic-application"
+        heroku_email: ${{secrets.HEROKU_EMAIL}}
+        appdir: "MyMusic"
