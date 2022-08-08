@@ -1,0 +1,194 @@
+2022-08-05 09:17:52 INFO  Starting SummitBootcampApplication using Java 17.0.4 on lnb036002cps with PID 1440670 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/classes started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic)
+2022-08-05 09:17:52 INFO  No active profile set, falling back to default profiles: default
+2022-08-05 09:17:58 INFO  Started SummitBootcampApplication in 6.469 seconds (JVM running for 7.099)
+2022-08-05 09:20:46 INFO  Starting SummitBootcampApplication using Java 17.0.4 on lnb036002cps with PID 1441452 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/classes started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic)
+2022-08-05 09:20:46 INFO  No active profile set, falling back to default profiles: default
+2022-08-05 09:20:49 INFO  Started SummitBootcampApplication in 4.032 seconds (JVM running for 4.726)
+2022-08-05 09:21:28 ERROR Credentials not in Basic Auth format
+2022-08-05 09:21:29 ERROR Credentials not in Basic Auth format
+2022-08-05 09:23:37 ERROR Invalid fields on controller's method body
+2022-08-05 09:23:52 ERROR Invalid body.
+2022-08-05 09:24:03 ERROR Invalid fields on controller's method body
+2022-08-05 09:26:31 ERROR Credentials not in Basic Auth format
+2022-08-05 09:26:40 INFO  MusicDto converted to Music
+2022-08-05 09:26:40 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:26:40 INFO  Checking if music with Id 323dade3-339a-4f94-86bb-6f806c4a6a2f exists
+2022-08-05 09:26:40 INFO  All musics added to playlist
+2022-08-05 09:26:40 INFO  Musics saved to playlist
+2022-08-05 09:26:40 INFO  Musics added to playlist
+2022-08-05 09:27:02 INFO  MusicDto converted to Music
+2022-08-05 09:27:02 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:27:02 INFO  Checking if music with Id 323dade3-339a-4f94-86bb-6f806c4a6a2f exists
+2022-08-05 09:27:02 INFO  All musics added to playlist
+2022-08-05 09:27:02 INFO  Musics saved to playlist
+2022-08-05 09:27:02 INFO  Musics added to playlist
+2022-08-05 09:27:05 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:27:05 INFO  Successful search
+2022-08-05 09:27:05 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 09:27:30 INFO  Entering music search by filter
+2022-08-05 09:27:30 INFO  Checking if filter length is bigger than 2
+2022-08-05 09:27:30 INFO  Successful search
+2022-08-05 09:27:30 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-05 09:28:02 INFO  MusicDto converted to Music
+2022-08-05 09:28:02 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:28:02 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176 exists
+2022-08-05 09:28:02 INFO  All musics added to playlist
+2022-08-05 09:28:02 INFO  Musics saved to playlist
+2022-08-05 09:28:02 INFO  Musics added to playlist
+2022-08-05 09:28:06 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:28:06 INFO  Successful search
+2022-08-05 09:28:06 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 6
+2022-08-05 09:29:04 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:29:04 INFO  Successful search
+2022-08-05 09:29:04 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 09:32:01 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:32:01 INFO  Successful search
+2022-08-05 09:32:01 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 09:32:35 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-05 09:32:59 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:32:59 INFO  Successful search
+2022-08-05 09:32:59 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 09:33:21 INFO  MusicDto converted to Music
+2022-08-05 09:33:21 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:33:21 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176 exists
+2022-08-05 09:33:21 INFO  All musics added to playlist
+2022-08-05 09:33:21 INFO  Musics saved to playlist
+2022-08-05 09:33:21 INFO  Musics added to playlist
+2022-08-05 09:33:27 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:33:27 INFO  Successful search
+2022-08-05 09:33:27 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 6
+2022-08-05 09:33:58 INFO  MusicDto converted to Music
+2022-08-05 09:33:58 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:33:58 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176 exists
+2022-08-05 09:33:58 INFO  All musics added to playlist
+2022-08-05 09:33:58 INFO  Musics saved to playlist
+2022-08-05 09:33:58 INFO  Musics added to playlist
+2022-08-05 09:34:08 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:34:08 INFO  Successful search
+2022-08-05 09:34:08 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 6
+2022-08-05 09:35:38 ERROR Credentials not in Basic Auth format
+2022-08-05 09:36:20 INFO  Entering music search without filter
+2022-08-05 09:36:21 INFO  Successful search
+2022-08-05 09:36:21 INFO  FindMusics Null filter
+2022-08-05 09:36:41 INFO  FindMusics Null filter
+2022-08-05 09:38:18 ERROR Invalid fields on controller's method body
+2022-08-05 09:38:35 ERROR Invalid fields on controller's method body
+2022-08-05 09:40:08 ERROR Invalid body.
+2022-08-05 09:40:25 INFO  MusicDto converted to Music
+2022-08-05 09:40:25 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:40:25 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176666 exists
+2022-08-05 09:40:25 ERROR Music with Id 0b4ed667-150b-4455-906a-3185e8de8176666 not found
+2022-08-05 09:42:37 INFO  Starting SummitBootcampApplication using Java 17.0.4 on lnb036002cps with PID 1446251 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/classes started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic)
+2022-08-05 09:42:37 INFO  No active profile set, falling back to default profiles: default
+2022-08-05 09:42:43 INFO  Started SummitBootcampApplication in 5.59 seconds (JVM running for 6.395)
+2022-08-05 09:44:28 INFO  Entering music search by filter
+2022-08-05 09:44:28 INFO  Checking if filter length is bigger than 2
+2022-08-05 09:44:28 INFO  Successful search
+2022-08-05 09:44:28 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-05 09:58:57 INFO  Starting SummitBootcampApplication using Java 17.0.4 on lnb036002cps with PID 1465910 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/classes started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic)
+2022-08-05 09:58:57 INFO  No active profile set, falling back to default profiles: default
+2022-08-05 09:59:02 INFO  Started SummitBootcampApplication in 5.649 seconds (JVM running for 6.285)
+2022-08-05 09:59:43 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:59:43 INFO  Successful search
+2022-08-05 09:59:43 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 09:59:59 INFO  MusicDto converted to Music
+2022-08-05 09:59:59 INFO  MusicDto converted to Music
+2022-08-05 09:59:59 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 09:59:59 INFO  Checking if music with Id 323dade3-339a-4f94-86bb-6f806c4a6a2f exists
+2022-08-05 09:59:59 INFO  Checking if music with Id 2359b747-2c71-4acf-b2ba-1e43510e4230 exists
+2022-08-05 09:59:59 INFO  All musics added to playlist
+2022-08-05 09:59:59 INFO  Musics saved to playlist
+2022-08-05 09:59:59 INFO  Musics added to playlist
+2022-08-05 10:52:52 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:52:52 INFO  Successful search
+2022-08-05 10:52:52 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-05 10:53:17 INFO  Entering music search by filter
+2022-08-05 10:53:17 INFO  Checking if filter length is bigger than 2
+2022-08-05 10:53:17 INFO  Successful search
+2022-08-05 10:53:17 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-05 10:53:42 INFO  MusicDto converted to Music
+2022-08-05 10:53:42 INFO  MusicDto converted to Music
+2022-08-05 10:53:42 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:53:42 INFO  Checking if music with Id f3ae3c70-9ab0-49cc-aa15-4d499c4a0834 exists
+2022-08-05 10:53:42 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176 exists
+2022-08-05 10:53:42 INFO  All musics added to playlist
+2022-08-05 10:53:42 INFO  Musics saved to playlist
+2022-08-05 10:53:42 INFO  Musics added to playlist
+2022-08-05 10:53:46 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:53:46 INFO  Successful search
+2022-08-05 10:53:46 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 7
+2022-08-05 10:54:27 INFO  MusicDto converted to Music
+2022-08-05 10:54:27 INFO  MusicDto converted to Music
+2022-08-05 10:54:27 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2edddd exists
+2022-08-05 10:54:27 ERROR Playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2edddd not found
+2022-08-05 10:54:52 ERROR Invalid body.
+2022-08-05 10:55:12 ERROR Invalid fields on controller's method body
+2022-08-05 10:55:27 INFO  MusicDto converted to Music
+2022-08-05 10:55:27 INFO  MusicDto converted to Music
+2022-08-05 10:55:27 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:55:27 INFO  Checking if music with Id 323dade3-339a-4f94-86bb-6f806c4a6a2f exists
+2022-08-05 10:55:27 INFO  Checking if music with Id 2359b747-2c71-4acf-b2ba-1e43510e4230aaaaa exists
+2022-08-05 10:55:27 ERROR Music with Id 2359b747-2c71-4acf-b2ba-1e43510e4230aaaaa not found
+2022-08-05 10:56:06 INFO  MusicDto converted to Music
+2022-08-05 10:56:06 INFO  MusicDto converted to Music
+2022-08-05 10:56:06 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:56:06 INFO  Checking if music with Id add31cfd-2b76-448c-9603-f176fbdb3269 exists
+2022-08-05 10:56:06 INFO  Checking if music with Id 9930d04f-7732-4436-8913-e1a367199af3aaa exists
+2022-08-05 10:56:06 ERROR Music with Id 9930d04f-7732-4436-8913-e1a367199af3aaa not found
+2022-08-05 10:56:17 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-05 10:56:17 INFO  Successful search
+2022-08-05 10:56:17 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 7
+2022-08-05 10:57:35 ERROR Credentials not in Basic Auth format
+2022-08-05 10:58:28 INFO  Entering music search without filter
+2022-08-05 10:58:29 INFO  Successful search
+2022-08-05 10:58:29 INFO  FindMusics Null filter
+2022-08-05 10:58:45 INFO  FindMusics Null filter
+2022-08-05 11:02:00 INFO  MusicDto converted to Music
+2022-08-05 11:02:00 INFO  MusicDto converted to Music
+2022-08-05 11:02:00 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2edffffffffffff exists
+2022-08-05 11:02:00 ERROR Playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2edffffffffffff not found
+2022-08-05 12:00:35 INFO  Entering music search by filter
+2022-08-05 12:00:35 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:00:35 INFO  Successful search
+2022-08-05 12:00:35 INFO  Entering music search by filter
+2022-08-05 12:00:35 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:00:35 INFO  Successful search
+2022-08-05 12:01:01 INFO  Entering music search by filter
+2022-08-05 12:01:01 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:01 INFO  Successful search
+2022-08-05 12:01:01 INFO  Entering music search by filter
+2022-08-05 12:01:01 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:01 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search by filter
+2022-08-05 12:01:20 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search by filter
+2022-08-05 12:01:20 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search without filter
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search without filter
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search by filter
+2022-08-05 12:01:20 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search by filter
+2022-08-05 12:01:20 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search by filter
+2022-08-05 12:01:20 INFO  Checking if filter length is bigger than 2
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 12:01:20 INFO  Entering music search without filter
+2022-08-05 12:01:20 INFO  Successful search
+2022-08-05 13:55:48 INFO  Entering music search by filter
+2022-08-05 13:55:48 INFO  Checking if filter length is bigger than 2
+2022-08-05 13:55:48 INFO  Successful search
+2022-08-05 13:55:48 INFO  Entering music search by filter
+2022-08-05 13:55:48 INFO  Checking if filter length is bigger than 2
+2022-08-05 13:55:48 INFO  Successful search
+2022-08-05 13:58:30 INFO  Entering music search by filter
+2022-08-05 13:58:30 INFO  Checking if filter length is bigger than 2
+2022-08-05 13:58:30 INFO  Successful search
+2022-08-05 13:58:30 INFO  Entering music search by filter
+2022-08-05 13:58:30 INFO  Checking if filter length is bigger than 2
+2022-08-05 13:58:30 INFO  Successful search

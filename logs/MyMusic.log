@@ -1,0 +1,7 @@
+2022-08-03 19:15:28 INFO  Starting SummitBootcampApplication v0.0.1-SNAPSHOT using Java 17.0.3 on lnb036002cps with PID 1108195 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/summit-bootcamp-mymusic-0.0.1-SNAPSHOT.jar started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal)
+2022-08-03 19:15:28 INFO  The following profiles are active: prod
+2022-08-03 19:15:31 INFO  TOKEN URL: https://mymusic-tokenprovider.herokuapp.com
+2022-08-03 19:15:45 INFO  Starting SummitBootcampApplication v0.0.1-SNAPSHOT using Java 17.0.3 on lnb036002cps with PID 1108530 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/summit-bootcamp-mymusic-0.0.1-SNAPSHOT.jar started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal)
+2022-08-03 19:15:45 INFO  The following profiles are active: prod
+2022-08-03 19:15:49 INFO  TOKEN URL: https://mymusic-tokenprovider.herokuapp.com
+2022-08-03 19:15:51 INFO  Started SummitBootcampApplication in 5.719 seconds (JVM running for 6.577)

@@ -1,0 +1,10 @@
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/core/usecases/CreateTokenUseCase.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/dto/request/CreateAuthorizerRequestData.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/core/usecases/CreateAuthorizerUseCase.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/TokenAuthorizerController.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/TokenController.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/dto/request/CreateAuthorizerRequest.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/services/EncryptServices.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/dto/request/CreateTokenRequest.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/TokenProviderApplication.java
+/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/TokenProvider/src/main/java/com/ciandt/token/provider/controllers/dto/request/CreateTokenRequestData.java

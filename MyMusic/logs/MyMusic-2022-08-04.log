@@ -1,0 +1,26 @@
+2022-08-04 21:00:14 INFO  Starting SummitBootcampApplication using Java 17.0.3 on lnb036002cps with PID 1432619 (/home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic/target/classes started by CIANDT\mgalvao in /home/mgalvao/IdeaProjects/projetct-myMusic-toTal/MyMusic)
+2022-08-04 21:00:14 INFO  No active profile set, falling back to default profiles: default
+2022-08-04 21:00:21 INFO  Started SummitBootcampApplication in 7.252 seconds (JVM running for 8.063)
+2022-08-04 21:00:40 INFO  Entering music search without filter
+2022-08-04 21:00:40 INFO  Successful search
+2022-08-04 21:00:40 INFO  FindMusics Null filter
+2022-08-04 21:00:50 INFO  FindMusics Null filter
+2022-08-04 21:00:54 INFO  FindMusics Null filter
+2022-08-04 21:00:59 INFO  FindMusics Null filter
+2022-08-04 21:01:09 INFO  Entering music search by filter
+2022-08-04 21:01:09 INFO  Checking if filter length is bigger than 2
+2022-08-04 21:01:09 INFO  Successful search
+2022-08-04 21:01:09 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-04 21:01:28 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-04 21:01:28 INFO  Successful search
+2022-08-04 21:01:28 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 5
+2022-08-04 21:01:57 INFO  FindMusics With filter a hard day's night, total rows: 6
+2022-08-04 21:02:22 INFO  MusicDto converted to Music
+2022-08-04 21:02:22 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-04 21:02:22 INFO  Checking if music with Id 0b4ed667-150b-4455-906a-3185e8de8176 exists
+2022-08-04 21:02:22 INFO  All musics added to playlist
+2022-08-04 21:02:22 INFO  Musics saved to playlist
+2022-08-04 21:02:22 INFO  Musics added to playlist
+2022-08-04 21:02:26 INFO  Checking if playlist with Id 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed exists
+2022-08-04 21:02:26 INFO  Successful search
+2022-08-04 21:02:26 INFO  FindMusics With playlistId 92d8123f-e9f6-4806-8e0e-1c6a5d46f2ed, total rows: 6

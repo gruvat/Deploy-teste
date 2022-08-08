@@ -1,0 +1,5 @@
+com/ciandt/summit/bootcamp2022/SummitBootcampApplicationTests.class
+com/ciandt/summit/bootcamp2022/service/PlaylistServiceTest.class
+com/ciandt/summit/bootcamp2022/repository/MusicRepositoryTest.class
+com/ciandt/summit/bootcamp2022/service/MusicServiceTest.class
+com/ciandt/summit/bootcamp2022/service/MusicServiceCachingTest.class
